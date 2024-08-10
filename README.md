@@ -10,4 +10,4 @@ Blu3duck is a project that turns an Arduino into a Bluetooth-controlled Universa
 
 The project utilizes [HoodLoader2](https://github.com/NicoHood/HoodLoader2) to enable the 16u2 chip to perform these functions. 
 
-For more information on Blu3duck, visit its [Project Page](https://arlsdk.github.io/blog/blu3duck.html).
+For more information on Blu3duck, visit its [Project Page](https://arlsdk.github.io/projects/blu3duck.html).
